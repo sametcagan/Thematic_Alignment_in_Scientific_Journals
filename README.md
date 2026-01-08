@@ -1,3 +1,6 @@
+# AI USAGE DISCLAIMER
+Parts of this project have been developed with the assistance of OpenAI’s ChatGPT (GPT-5). The AI was used to support the development of project ideas, the structuring of methodological workflows, the drafting of descriptive texts, and the identification of relevant datasets (arXiv scraping code and query). Figures and graphs developed with AI assistance have been carefully reviewed, edited, and validated by me. I take full responsibility for the final content and its accuracy, relevance, and academic integrity.
+
 # Project Specification (P7): Analyzing Thematic Alignment in Scientific Journals
 
 ## Objective
@@ -18,3 +21,4 @@ The required analytical pipeline consists of:
 
 ## Implementation in This Study
 In this work, the venue specification is instantiated using a longitudinal corpus of Medical AI-related publications and a fixed scope reference statement embedded in the same semantic space. Alignment is operationalized through cosine similarity, and topic structure is recovered via unsupervised clustering to contextualize drift in terms of shifting research pillars.
+
