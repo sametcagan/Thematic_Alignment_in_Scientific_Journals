@@ -9,7 +9,7 @@ The core objective of this project is to quantitatively assess whether the artic
 - **Outlier papers** that are unusually misaligned with the venue’s declared mission.
 
 ## Reference Concept (“Ground Truth”)
-The venue’s **Aims & Scope** text (sourced from an authoritative venue description) serves as the fixed thematic reference representing intended editorial focus.
+**Aims & Scope** text serves as the fixed thematic reference representing intended editorial focus.
 
 ## Core Pipeline
 The required analytical pipeline consists of:
